@@ -1,0 +1,7 @@
+# This is a placeholder .kube-linter.yaml file.
+# Add your custom checks or configurations here.
+# For example:
+checks:
+  addAllBuiltIn: true # Include all built-in checks
+#   # exclude:
+#   #   - "no-read-only-root-filesystem" 
